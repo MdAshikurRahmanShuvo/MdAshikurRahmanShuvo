@@ -103,7 +103,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://facebook.com/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://m.me/ashikshuvo5633" target="blank"><img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="mailto:shuvo15-5633@diu.edu.bd"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
