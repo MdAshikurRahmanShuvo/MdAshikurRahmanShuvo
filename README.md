@@ -1,12 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090E,50:7C6FFF,100:06D6DB&text=Ashik%20Shuvo&section=header&fontAlign=50&animation=twinkling&fontSize=48&fontColor=ffffff&desc=Aspiring%20Data%20Analyst%20🚀&descAlignY=55&fontAlignY=30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090E,50:7C6FFF,100:06D6DB&text=Ashik%20Shuvo&section=header&fontAlign=50&animation=twinkling&reversal=false&textBg=false&desc=Aspiring%20Data%20Analyst%20•%20Excel%20•%20SQL%20•%20Power%20BI%20•%20Python&fontSize=48&fontColor=ffffff&descAlignY=50&fontAlignY=30&stroke=0"/> 
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C6FFF&center=true&vCenter=true&width=500&lines=Data+Analyst+in+Progress...;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+Data+into+Insights+📊;Always+Learning+New+Things+🚀" />
-
-<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MdAshikurRahmanShuvo&label=Profile+Views&color=7C6FFF&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/MdAshikurRahmanShuvo?label=Followers&style=for-the-badge&color=7C6FFF)](https://github.com/MdAshikurRahmanShuvo)
@@ -21,15 +17,13 @@
 ```yaml
 name        : Ashik Shuvo
 role        : Aspiring Data Analyst
-experience  : Internship & Personal Projects
 specialty   : Excel · SQL · Power BI · Python
-focus       : Data Visualization · Dashboard · Business Insights
-currently   : Working on Real-world Data Projects
-education   : B.Sc. in Computer Science (DIU)
-location    : Bangladesh
-```
----
+focus       : Data Visualization · Dashboards · Analytics
+currently   : Learning Advanced Analytics & Real-world Projects
+education   : B.Sc. Computer Science — DIU, Bangladesh (2025)
+contact     : MdAshikurRahmanShuvo
 
+```
 ## 💻 Tech Arsenal
 
 <div align="center">
