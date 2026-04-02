@@ -143,46 +143,6 @@ Includes authentication, job posting, and application system.
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ashik_shuvo)
 
 </div>
+![My Activity](https://github-readme-activity-graph.vercel.app/api?username=MDASHIKURRAHMANSHUVO&theme=dracula&area=true)
 
----
----
 
-## 🐍 My Contributions
-
-<details open>
-<summary><b>📅 2026 Activity (Click to toggle)</b></summary>
-
-<br>
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/409ba5/MDASHIKURRAHMANSHUVO" width="90%" />
-
-</div>
-
-</details>
-
-<br>
-
-<details>
-<summary><b>📅 2025 Activity (Click to toggle)</b></summary>
-
-<br>
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/7C6FFF/MDASHIKURRAHMANSHUVO" width="90%" />
-
-</div>
-
-</details>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06D6DB,50:7C6FFF,100:09090E&height=120&section=footer"/>
-
-</div>
-
----
