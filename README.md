@@ -142,7 +142,5 @@ Includes authentication, job posting, and application system.
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+8801829744766)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ashik_shuvo)
 
-</div>
-![My Activity](https://github-readme-activity-graph.vercel.app/api?username=MDASHIKURRAHMANSHUVO&theme=dracula&area=true)
 
 
