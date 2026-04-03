@@ -21,7 +21,7 @@ specialty   : Excel · SQL · Power BI · Python
 focus       : Data Visualization · Dashboards · Analytics
 currently   : Learning Advanced Analytics & Real-world Projects
 education   : B.Sc. Computer Science — DIU, Bangladesh (2025)
-contact     : MdAshikurRahmanShuvo
+contact     : shuvo15-5633@diu.edu.bd
 
 ```
 ## 💻 Tech Arsenal
@@ -58,7 +58,6 @@ contact     : MdAshikurRahmanShuvo
 
 </div>
 
----
 ---
 
 ## 🚀 Featured Projects
@@ -114,7 +113,6 @@ Includes authentication, job posting, and application system.
 
 </table>
 
----
 ---
 
 ## 📈 Contribution Activity
